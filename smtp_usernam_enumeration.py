@@ -4,7 +4,7 @@
 # Usage: smtp_enum.py <target_ip> <wordlist file>
 # unix_users.txt downloaded from https://raw.githubusercontent.com/rapid7/metasploit-framework/master/data/wordlists/unix_users.txt
 
-__author__ = "skyskater15"
+__author__ = "Rajesh Kumar N"
 __version__ = "1.0"
 
 import os
